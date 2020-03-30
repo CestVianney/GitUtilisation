@@ -7,5 +7,12 @@ public class Employe{
 	private String adresse;
 	private int age;
 
+	/*
+	* constructeur
+	*/
+
+	public Employe(){
+		
+	}
 
 }
